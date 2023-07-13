@@ -1,21 +1,23 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
-void main() => runApp(const MyApp());
+import 'providers/launch_providers.dart';
+import 'screens/launch_list_screen.dart';
+void main() {
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Material App',
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Material App Bar'),
+    return ChangeNotifierProvider(
+      create: (ctx) => LaunchProvider(),
+      child: MaterialApp(
+        title: 'SpaceX Latest Launch',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
         ),
-        body: const Center(
-          child: Text('Hello World'),
-        ),
+        home: HomeScreen(),
       ),
     );
   }
