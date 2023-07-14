@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-merged_res-11:/drawable_launch_background.xml.flat",
+        "source": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-main-5:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.example.spacex.app-merged_res-11:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.example.spacex.app-main-5:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.spacex.app-merged_res-11:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.example.spacex.app-main-5:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.spacex.app-merged_res-11:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.example.spacex.app-main-5:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-merged_res-11:/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-main-5:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.spacex.app-merged_res-11:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.example.spacex.app-main-5:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/abdullahonus/.gradle/daemon/7.5/com.example.spacex.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.spacex.app-merged_res-11:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.example.spacex.app-main-5:/mipmap-xxhdpi/launcher_icon.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri Jul 14 12:45:59 TRT 2023
+base.0=/Users/abdullahonus/Desktop/spacex/spacex/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
